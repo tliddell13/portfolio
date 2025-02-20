@@ -7,7 +7,9 @@ import { Container, Row, Col, Alert } from "react-bootstrap";
 import { contactConfig, socialprofiles } from "../../content_option";
 import { FaGithub, FaLinkedin } from 'react-icons/fa'; 
 import resume_pic from "../../images/resumePic.png";
-import resume from "../../components/myResume.pdf";
+
+import resume from "../../components/LiddellResume2.pdf";
+
 export const ContactUs = () => {
 
   return (
