@@ -102,14 +102,13 @@ const dataportfolio = [
 
 const contactConfig = {
     MAIL: "tliddell13@gmail.com",
-    PHONE: "+44 7961 672429",
+    PHONE: "+1 530-908-5676",
     RESUME_PIC: "./images/resumePic.jpg",
 };
 
 const socialprofiles = {
     github: "https://github.com/tliddell13",
-    linkedin: "https://www.linkedin.com/in/tyler-liddell-939583167/",
-    twitter: "https://twitter.com",
+    linkedin: "https://www.linkedin.com/in/tyler-liddell-939583167/"
 };
 export {
     meta,
