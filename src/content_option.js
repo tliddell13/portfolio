@@ -1,3 +1,5 @@
+import dissertation from "./components/dissertation.pdf";
+
 const logotext = "Tyler Liddell";
 const meta = {
     title: "Tyler Liddell",
@@ -12,7 +14,7 @@ const introdata = {
 
 const dataabout = {
     title: "About my self",
-    aboutme: `I am a software engineer with a passion for building things. I have experience in building web and mobile applications, 
+    aboutme: `I am a software engineer who enjoys what I do. I have experience in building web and mobile applications, 
     but I am most interested in machine learning, data science, and natural language processing. 
     I am always looking for new opportunities to learn and grow and I am not afraid of trying new things or taking on new challenges.`,
 };
@@ -81,6 +83,11 @@ const dataportfolio = [
   ];
   
   const researchProjects = [
+    {
+      title: "Experiments With Word Order in Language Models",
+      description: "A study on how word order affects the performance of language models, particularly smaller open source models such as the Llama-2-7b and Mistral-7b models.",
+      link: dissertation
+    },
     {
       title: "SMS Spam Detection",
       description: "Developed and evaluated machine learning models using CBOW and other NLP techniques to classify SMS texts as spam or legitimate. Achieved 98% accuracy on the holdout test set.",

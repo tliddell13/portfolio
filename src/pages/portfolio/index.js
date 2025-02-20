@@ -45,7 +45,7 @@ export const Portfolio = () => {
                 <div>
                   <h3>{data.title}</h3>
                   <p>{data.description}</p>
-                  <a href={data.link}>view project</a>
+                  <a href={data.link} target="_blank" rel="noopener noreferrer">view project</a>
                 </div>
               </div>
             );

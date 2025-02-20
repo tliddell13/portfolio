@@ -6,8 +6,8 @@ import { meta } from "../../content_option";
 import { Container, Row, Col, Alert } from "react-bootstrap";
 import { contactConfig, socialprofiles } from "../../content_option";
 import { FaGithub, FaLinkedin } from 'react-icons/fa'; 
-import resume_pic from "../../images/resumePic.jpg";
-import resume from "../../components/myResume.pdf";
+import resume_pic from "../../images/resumePic.png";
+import resume from "../../components/LiddellResume2.pdf";
 export const ContactUs = () => {
 
   return (
@@ -56,7 +56,7 @@ export const ContactUs = () => {
               <div className="po_item"> 
                 <img src={resume_pic} alt="" />
                 <div className="content">
-                  <a href={resume} target="_blank" rel="noopener noreferrer">Download Resume</a>
+                  <a href={resume} target="_blank" rel="noopener noreferrer">Download Résumé</a>
                 </div>
               </div>
             </div>
