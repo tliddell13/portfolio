@@ -102,7 +102,7 @@ const dataportfolio = [
 
 const contactConfig = {
     MAIL: "tliddell13@gmail.com",
-    PHONE: "+44 7961 672429",
+    PHONE: "+1 (530) 908-5676",
     RESUME_PIC: "./images/resumePic.jpg",
 };
 
