@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.2d6c5638.css",
-    "main.js": "/portfolio/static/js/main.e4c73e40.js",
+    "main.js": "/portfolio/static/js/main.6b1ef22b.js",
     "static/media/dissertation.pdf": "/portfolio/static/media/dissertation.ff9f5d36d12667852e32.pdf",
     "static/media/tyler.JPG": "/portfolio/static/media/tyler.9116948c2f477a872a75.JPG",
     "static/media/resumePic.png": "/portfolio/static/media/resumePic.e799e35685759cc17e14.png",
@@ -10,6 +10,6 @@
   },
   "entrypoints": [
     "static/css/main.2d6c5638.css",
-    "static/js/main.e4c73e40.js"
+    "static/js/main.6b1ef22b.js"
   ]
 }
