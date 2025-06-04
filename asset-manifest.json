@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.2d6c5638.css",
-    "main.js": "/portfolio/static/js/main.6b1ef22b.js",
+    "main.js": "/portfolio/static/js/main.007e7fc6.js",
     "static/media/dissertation.pdf": "/portfolio/static/media/dissertation.ff9f5d36d12667852e32.pdf",
     "static/media/tyler.JPG": "/portfolio/static/media/tyler.9116948c2f477a872a75.JPG",
-    "static/media/resumePic.png": "/portfolio/static/media/resumePic.e799e35685759cc17e14.png",
-    "static/media/LiddellResume2.pdf": "/portfolio/static/media/LiddellResume2.fadfc1095b71fdba6b77.pdf",
+    "static/media/Tyler_Liddell_CV_DS2.pdf": "/portfolio/static/media/Tyler_Liddell_CV_DS2.a44ae8dc7c5fecd66dd4.pdf",
+    "static/media/CV_pic.png": "/portfolio/static/media/CV_pic.fddd33cc7147f0e6ec02.png",
     "index.html": "/portfolio/index.html"
   },
   "entrypoints": [
     "static/css/main.2d6c5638.css",
-    "static/js/main.6b1ef22b.js"
+    "static/js/main.007e7fc6.js"
   ]
 }
