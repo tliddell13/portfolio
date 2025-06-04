@@ -6,8 +6,8 @@ import { meta } from "../../content_option";
 import { Container, Row, Col, Alert } from "react-bootstrap";
 import { contactConfig, socialprofiles } from "../../content_option";
 import { FaGithub, FaLinkedin } from 'react-icons/fa'; 
-import resume_pic from "../../images/resumePic.png";
-import resume from "../../components/TylerCV.pdf";
+import resume_pic from "../../images/CV_pic.png";
+import resume from "../../components/Tyler_Liddell_CV_DS2.pdf";
 export const ContactUs = () => {
 
   return (
