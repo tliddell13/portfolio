@@ -7,16 +7,14 @@ const meta = {
 };
 
 const introdata = {
-    title: "Hello",
-    description: `I am a computer scientist specialzing in machine learning and natural language processing.`,
+    title: "Hello!",
+    description: `I am an aspiring NLP and Artificial Intelligence researcher.`,
     your_img_url: "./images/tyler.JPG",
 };
 
 const dataabout = {
     title: "About my self",
-    aboutme: `I am a software engineer who enjoys what I do. I have experience in building web and mobile applications, 
-    but I am most interested in machine learning, data science, and natural language processing. 
-    I am always looking for new opportunities to learn and grow and I am not afraid of trying new things or taking on new challenges.`,
+    aboutme: `I am a recent graduate with a Master's degree in Computer Science from City St. George's University of London. While I am most passionate about NLP and AI research, I also just good old fashioned software development. I enjoy learning new programming skills by jumping head first into a project. I am currently searching for PhD and/or research assistant opportunities. Feel free to contact me if you have any questions or would like to discuss potential collaborations.`,
 };
 
 const skills = [
