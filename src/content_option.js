@@ -14,7 +14,7 @@ const introdata = {
 
 const dataabout = {
     title: "About my self",
-    aboutme: `I am a recent graduate with a Master's degree in Computer Science from City St. George's University of London. While I am most passionate about NLP and AI research, I also just good old fashioned software development. I enjoy learning new programming skills by jumping head first into a project. I am currently searching for PhD and/or research assistant opportunities. Feel free to contact me if you have any questions or would like to discuss potential collaborations.`,
+    aboutme: `I am a recent graduate with a Master's degree in Computer Science from City St. George's University of London. While I am most passionate about NLP and AI research, I also enjoy software engineering work. I enjoy learning new programming skills by jumping head first into a project. I am currently searching for PhD and/or research assistant opportunities. Feel free to contact me if you have any questions or would like to discuss potential collaborations.`,
 };
 
 const skills = [
@@ -84,7 +84,7 @@ const dataportfolio = [
     {
       title: "Experiments With Word Order in Language Models",
       description: "A study on how word order affects the performance of language models, particularly smaller open source models such as the Llama-2-7b and Mistral-7b models.",
-      link: dissertation
+      link: "https://github.com/tliddell13/lm-evaluation-harness"
     },
     {
       title: "SMS Spam Detection",
