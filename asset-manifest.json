@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.2d6c5638.css",
-    "main.js": "/portfolio/static/js/main.e2bb7cba.js",
+    "main.js": "/portfolio/static/js/main.65ada844.js",
     "static/media/dissertation.pdf": "/portfolio/static/media/dissertation.ff9f5d36d12667852e32.pdf",
     "static/media/tyler.JPG": "/portfolio/static/media/tyler.9116948c2f477a872a75.JPG",
     "static/media/Liddell_CV.pdf": "/portfolio/static/media/Liddell_CV.1bc5d7bbdc041fde43ae.pdf",
@@ -10,6 +10,6 @@
   },
   "entrypoints": [
     "static/css/main.2d6c5638.css",
-    "static/js/main.e2bb7cba.js"
+    "static/js/main.65ada844.js"
   ]
 }
